@@ -2,7 +2,9 @@
 <h3 align="center">all the above coder</h3>
 
 - 🔭 I’m currently working on **lightningAC**
-
+Minecraft anticheat that supports 1.8 to 1.20.6 (21 soon)
+has very sensitive and hard to false positive checks
+1.1 movement check (like grim)
 - 🌱 I’m currently learning **Too lazy**
 
 - 👯 I’m looking to collaborate on **Maybe**
