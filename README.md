@@ -1,7 +1,7 @@
 <h1 align="center">Me is Tawny</h1>
 <h3 align="center">all the above coder</h3>
 
-- 🔭 I’m currently working on **Nothing**
+- 🔭 I’m currently working on **lightningAC**
 
 - 🌱 I’m currently learning **Too lazy**
 
