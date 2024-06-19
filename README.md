@@ -1,10 +1,28 @@
 <h1 align="center">Me is Tawny</h1>
 <h3 align="center">all the above coder</h3>
 
-- 🔭 I’m currently working on **lightningAC**
+- 🔭 I’m currently working on **VoitAC V2**
 Minecraft anticheat that supports 1.8 to 1.20.6 (21 soon)
 has very sensitive and hard to false positive checks
-1.1 movement check (like grim)
+1.1 movement check (like grim) 
+checks: (some will not be listed)
+1. Movement.
+The movement engine (like grim)
+can detect pretty much anything movement related
+2. Combat.
+Attack A 1x (reach and hitbox)
+Killaura AtoH 8x (two accuracy checks other ones are private)
+Aim AtoD 4x (checks for retard settings)
+Autoclicker AtoF 7x
+CrystalAura AtoC 3x 
+Badpacket A, B, F. 3x (private so no label)
+3. Player.
+Baritone AtoB 2x
+Badpacket Ato3 29x (including the combat ones)
+Autofish A 1x
+
+that's pretty much it^
+
 - 🌱 I’m currently learning **Too lazy**
 
 - 👯 I’m looking to collaborate on **Maybe**
