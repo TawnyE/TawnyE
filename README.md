@@ -1,7 +1,7 @@
 <h1 align="center">Me is Tawny</h1>
 <h3 align="center">all the above coder</h3>
 
-- 🔭 I’m currently working on **VoitAC V2**
+- 🔭 I’m currently working on **CodeControlAC**
 Minecraft anticheat that supports 1.8 to 1.20.6 (21 soon)
 has very sensitive and hard to false positive checks
 1.1 movement check (like grim) 
