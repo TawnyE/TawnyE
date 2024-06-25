@@ -1,27 +1,29 @@
-<h1 align="center">Me is Tawny</h1>
-<h3 align="center">all the above coder</h3>
+<h1 align="center">I'm Tawny</h1>
+<h3 align="center">Full-Stack Coder</h3>
 
-- 🔭 I’m currently working on **CodeControlAC**
-Minecraft anticheat that supports 1.8 to 1.20.6 (21 soon)
-has very sensitive and hard to false positive checks
-1.1 movement check (like grim) 
-checks: (some will not be listed)
-1. Movement.
-The movement engine (like grim)
-can detect pretty much anything movement related
-2. Combat.
-Attack A 1x (reach and hitbox)
-Killaura AtoH 8x (two accuracy checks other ones are private)
-Aim AtoD 4x (checks for retard settings)
-Autoclicker AtoF 7x
-CrystalAura AtoC 3x 
-Badpacket A, B, F. 3x (private so no label)
-3. Player.
-Baritone AtoB 2x
-Badpacket Ato3 29x (including the combat ones)
-Autofish A 1x
+- 🔭 I’m currently working on **CodeControlAC**, a Minecraft anti-cheat that supports versions 1.8 to 1.20.6 (with support for 21 coming soon). 
 
-that's pretty much it^
+## Features
+
+**CodeControlAC** offers highly sensitive and robust checks with minimal false positives. Here’s an overview of the checks:
+
+### 1. Movement
+The movement engine, similar to Grim, can detect almost any movement-related cheats.
+
+### 2. Combat
+- **Attack A 1x:** Reach and hitbox detection.
+- **Killaura AtoH 8x:** Includes two accuracy checks, with the rest being private.
+- **Aim AtoD 4x:** Detects abnormal aim settings.
+- **Autoclicker AtoF 7x**
+- **CrystalAura AtoC 3x**
+- **Badpacket A, B, F 3x:** These are private checks, so no specific labels.
+
+### 3. Player
+- **Baritone AtoB 2x**
+- **Badpacket Ato3 29x:** Includes combat-related checks.
+- **Autofish A 1x**
+
+That's pretty much it!
 
 - 🌱 I’m currently learning **Too lazy**
 
