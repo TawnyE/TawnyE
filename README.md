@@ -1,11 +1,8 @@
 <h1 align="center">Hey, I'm Tawny 👋</h1>
 <h3 align="center">Minecraft Developer & Full-Stack Coder</h3>
 
-<p align="center">
-  I’m mostly interested in Minecraft packets and other complex stuff. I might be lazy at times, but I always get the job done.
-  <br>
-  I'm also well-versed in Skript (SK), so if you need help with that, I'm your person.
-</p>
+<p align="center"> Most interested in Minecraft packets and other high-level things. Usually lazy, but always does the job.
+<br>I am also good at Skript(Sk), so you can ask me anything skript.
 
 
 <h3 align="left">🌐 Connect with Me:</h3>
