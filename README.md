@@ -5,7 +5,3 @@
 <br>I am also good at Skript(Sk), so you can ask me anything skript.
 
 
-<h3 align="left">🌐 Connect with Me:</h3>
-<p align="left">
-  <a href="https://github.com/your-username" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="40" width="40" /></a>
-  <a href="https://twitter.com/your-handle" target="_blank"><img align="center" src="
