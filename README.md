@@ -33,7 +33,7 @@ I focus on building reliable systems, designing efficient architectures, and pus
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="Gradle" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" alt="Gradle" width="48" height="48"/>
 </p>
 
 ---
@@ -61,7 +61,3 @@ I focus on building reliable systems, designing efficient architectures, and pus
 ## 📫 Contact Me
 > The best way to reach me is on **Discord**:  
 > [![Join My Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/xRchyJFkBG)
-
----
-
-> ⚡ *“Performance, precision, and clean architecture — that’s the Tawny standard.”*
